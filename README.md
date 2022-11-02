@@ -1,1 +1,2 @@
+- [Free Vectors for Laser Cutting - 3axis.co](https://3axis.co/) #laser
 - [GRAPHICS.IN.UA](http://graphics.in.ua/) #laser
