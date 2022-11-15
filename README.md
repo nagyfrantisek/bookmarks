@@ -1,5 +1,11 @@
-- [CDR макеты для лазерной резки](https://rezkalaser.ru/) #laser
 - [Ping Tracer](https://github.com/bp2008/pingtracer) #software
 - [Firewall App Blocker (Fab) v1.9](https://www.sordum.org/8125/firewall-app-blocker-fab-v1-9/) #software
 - [Free Vectors for Laser Cutting - 3axis.co](https://3axis.co/) #laser
 - [GRAPHICS.IN.UA](http://graphics.in.ua/) #laser
+- [CDR макеты для лазерной резки](https://rezkalaser.ru/) #laser
+- [Скачать бесплатные макеты лазерной резки, CNC, 3D Печати](https://1laser.ru/) #laser
+- [Cnc laser](https://www.cncpdf.com/) #laser
+- [ALI FILE CNC](https://www.alifilecnc.com/) #laser
+- [3osi](https://3osi.ru/) #laser
+- [LaserCut models](https://lasercut.usehelp.org/) #laser
+- [Dezin | Free Laser Cut Vector Files, 3D Model, Papercraft & More!](https://dezin.info/) #laser
