@@ -1,3 +1,4 @@
+- [ameede - Download Vector – Free design vector file download for CNC and Laser](https://www.ameede.com/) #laser
 - [ReadyToCut - Vector Art for CNC - Free DXF Files](https://www.readytocut.com/community/) #laser
 - [Laser Projects - Trotec Laser](https://www.troteclaser.com/en/learn-support/laser-projects) #laser
 - [Ponoko - Laser Cut Files, Download Templates, Designs & Patterns For Free](https://www.ponoko.com/free-laser-cutting-files-templates) #laser
