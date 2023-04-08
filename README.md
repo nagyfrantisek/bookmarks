@@ -1,3 +1,4 @@
+- [CreativeFabrica - Freebies](https://www.creativefabrica.com/freebies/) #laser#font
 - [Modern Font Stacks](https://modernfontstacks.com/) #font
 - [Tinkershare](https://tinkershare.com/) #laser
 - [ameede - Download Vector – Free design vector file download for CNC and Laser](https://www.ameede.com/) #laser
