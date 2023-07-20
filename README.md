@@ -18,3 +18,4 @@
 - [3osi](https://3osi.ru/) #laser
 - [LaserCut models](https://lasercut.usehelp.org/) #laser
 - [Dezin - Free Laser Cut Vector Files, 3D Model, Papercraft & More!](https://dezin.info/) #laser
+- [Serverhunter](https://www.serverhunter.com) #server
