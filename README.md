@@ -1,4 +1,4 @@
-- [CreativeFabrica - Freebies](https://www.creativefabrica.com/freebies/) #laser#font
+- [CreativeFabrica - Freebies](https://www.creativefabrica.com/freebies/) #laser #font
 - [Modern Font Stacks](https://modernfontstacks.com/) #font
 - [Tinkershare](https://tinkershare.com/) #laser
 - [ameede - Download Vector – Free design vector file download for CNC and Laser](https://www.ameede.com/) #laser
@@ -19,3 +19,5 @@
 - [LaserCut models](https://lasercut.usehelp.org/) #laser
 - [Dezin - Free Laser Cut Vector Files, 3D Model, Papercraft & More!](https://dezin.info/) #laser
 - [Serverhunter](https://www.serverhunter.com) #server
+- [2D free](https://2d-free.ru) #laser
+- [Free STL](https://free-stl.ru) #3dprint
